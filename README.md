@@ -1,16 +1,23 @@
-## Hi there 👋
+# Mi Sitio Personal
 
-<!--
-**Julio-Cevallos/Julio-Cevallos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este es un sitio personal. Aquí puedes encontrar información sobre mí, mis proyectos e intereses.
 
-Here are some ideas to get you started:
+## Contenido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [Información Personal] (#información-personal)
+* [Proyectos] (#proyectos)
+* [Intereses] (#intereses)
+
+  ## Información Personal
+  * Nombre: [Julio José Cevallos Vaca]
+  * Ocupación: [Estudiante Politécnico]
+  * Género: [Masculino]
+ 
+  ## Proyectos
+  * [title](https://github.com/Julio-Cevallos/Taller01-Ramas)
+  
+  ## Intereses
+  * [Jugar videojuegos]
+  * [Pasear]
+  * [Escuchar música]
+  
