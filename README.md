@@ -4,9 +4,9 @@ Este es un sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 
 ## Contenido
 
-* [Información Personal] (#información-personal)
-* [Proyectos] (#proyectos)
-* [Intereses] (#intereses)
+* [Información Personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
   ## Información Personal
   * Nombre: [Julio José Cevallos Vaca]
@@ -14,7 +14,7 @@ Este es un sitio personal. Aquí puedes encontrar información sobre mí, mis pr
   * Género: [Masculino]
  
   ## Proyectos
-  * [title](https://github.com/Julio-Cevallos/Taller01-Ramas)
+  * [Taller01-Ramas](https://github.com/Julio-Cevallos/Taller01-Ramas)
   
   ## Intereses
   * [Jugar videojuegos]
