@@ -32,9 +32,9 @@ Este es un sitio personal. Aquí puedes encontrar información sobre mí, mis pr
     * Sistema de Control de Versiones: [Giy]
     * IDE esperado: [Android Studio]
     * Framework/Plataforma: Andriod SDK
-    * Sistema de compilación: [Gradle (Kotlin DSL)] <br>
-  **Link del Proyecto**
-    * [Apliación-Financiera](https://github.com/Julio-Cevallos/Aplicacion-Financiera)
+    * Sistema de compilación: [Gradle (Kotlin DSL)]
+      
+  **Link del Proyecto**: [Apliación-Financiera](https://github.com/Julio-Cevallos/Aplicacion-Financiera)
 
     ### Base de Datos Financiera
   **Descripción** <br>
@@ -44,9 +44,9 @@ Este es un sitio personal. Aquí puedes encontrar información sobre mí, mis pr
     * Sistema de Control de Versiones: [Giy]
     * Backend: [Node.js con Express]
     * Frontend: [React]
-    * Control de Dependencias: [NPM (package.json en backend y frontend)] <br>
-  **Link del Proyecto**
-    * [Base-de-Datos-Financiera](https://github.com/Julio-Cevallos/Base-de-Datos-Financiera)
+    * Control de Dependencias: [NPM (package.json en backend y frontend)]
+      
+  **Link del Proyecto**: [Base-de-Datos-Financiera](https://github.com/Julio-Cevallos/Base-de-Datos-Financiera)
   
   ## Intereses
   * [Jugar videojuegos]
