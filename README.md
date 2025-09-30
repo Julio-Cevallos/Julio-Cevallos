@@ -21,9 +21,8 @@ Este es un sitio personal. Aquí puedes encontrar información sobre mí, mis pr
     * Lenguaje: [Java]
     * Sistema de Control de Versiones: [Giy y GitHub]
     * Entorno Esperado: [Visual Studio Code]
-    * <br>
-  **Link del Proyecto**
-[Taller01-Ramas](https://github.com/Julio-Cevallos/Taller01-Ramas)
+     <br>
+  **Link del Proyecto**: [Taller01-Ramas](https://github.com/Julio-Cevallos/Taller01-Ramas)
 
     ### Aplicación Financiera
   **Descripción** <br>
